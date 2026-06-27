@@ -25,3 +25,12 @@ A clean, minimal, and responsive mini calendar widget built with HTML, CSS, and 
 > A minimal and responsive calendar widget that displays the current date, day, month, and year using vanilla HTML, CSS, and JavaScript. Perfect for embedding into dashboards, blogs, or personal websites.
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Calendar.png" width="48%" />
+</p>
+
+---
+
